@@ -1,4 +1,4 @@
-# conceptsofprog
+# Concepts of Programming
 Interpreter Programming Project
 CS 3361 Concepts of Programming Languages
 Below is the syntax and semantics for a single Boolean expression followed by
